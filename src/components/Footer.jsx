@@ -10,9 +10,10 @@ const Footer = () => {
             <div>
                 <button onClick={() => {}}>חב"ד</button>
                 <button onClick={() => {}}>מקווה</button>
-                <button onClick={() => {navigate('/home')}}>ראשי</button>
                 <button onClick={() => {navigate('/daniel')}}>דניאל</button>
                 <button onClick={() => {}}>תימנים</button>
+                <button onClick={() => {}}>שונות</button>
+                <button onClick={() => {navigate('/home')}}>ראשי</button>
             </div>
         </div>
     )
